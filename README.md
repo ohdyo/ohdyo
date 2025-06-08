@@ -12,10 +12,7 @@
 ---
 
 ### Connect with me:
-<a href="https://dev.to/ohdyo" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" width="40" height="40" />
-</a>
-<a href="https://linkedin.com/in/ohdyo" target="blank">
+<a href="https://www.linkedin.com/in/jaehyeok-lee-40504536a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40" />
 </a>
 
