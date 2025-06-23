@@ -59,7 +59,7 @@
 
 # PROJECT
 <details>
-<summary><strong>## WLB_MATE</strong>summary></summary>strong>
+<summary><strong>WLB_MATE</strong></summary>
 <img src="https://github.com/user-attachments/assets/79db4aad-9fa6-44b0-bbed-713088275a65" width="300"/>
 
 - 개발 기간 : 2025.04.~2025.06.20 (2개월)
