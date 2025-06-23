@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jaehyeok Lee</h1>
-<h3 align="center">A current AI developer with full-stack training, aspiring to get hired as a developer</h3>
+<h3 align="center">A current AI developer with full-stack training</h3>
 
 # ABOUT ME
 
